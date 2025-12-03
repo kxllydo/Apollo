@@ -1,0 +1,13 @@
+package com.apollo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Apollo2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Apollo2Application.class, args);
+    }
+}
+
